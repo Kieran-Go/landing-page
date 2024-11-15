@@ -1,1 +1,1 @@
-# landing-page
+This is a practice project to help with learning the fundamentals of HTML and CSS by creating a landing webpage.
